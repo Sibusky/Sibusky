@@ -6,7 +6,7 @@ One year ago I started my way in programming. I chose JavaScript as my first lan
 
 I’ve almost finished the course “Web-developer” from Yandex.Practicum. During this course I’ve learned HTML, CSS, JavaScript, React, back-end development using Node.js. You can find my project works in repositories section or on the list below:
 
-HTML, CSS
+HTML, CSS:
 https://github.com/Sibusky/how-to-learn
 https://github.com/Sibusky/russian-travel
 

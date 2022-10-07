@@ -6,18 +6,18 @@ One year ago I started my way in programming. I chose JavaScript as my first lan
 
 I’ve almost finished the course “Web-developer” from Yandex.Practicum. During this course I’ve learned HTML, CSS, JavaScript, React, back-end development using Node.js. You can find my project works in repositories section or on the list below:
 
-HTML, CSS:
+HTML, CSS   
 https://github.com/Sibusky/how-to-learn
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript   
 https://github.com/Sibusky/russian-travel   
 https://github.com/Sibusky/mesto
 
-JavaScript, React
+JavaScript, React   
 https://github.com/Sibusky/mesto-react   
 https://github.com/Sibusky/react-mesto-auth
 
-JavaScript, Node.js
+JavaScript, Node.js   
 https://github.com/Sibusky/express-mesto-gha
 _______
 
@@ -27,16 +27,16 @@ _______
 
 Я почти завершил курс “Веб-разработчик” от Яндекс.Практикум. В рамках этого курса я изучил HTML, CSS, JavaScript, React, back-end разработку на Node.js. Вы можете найти мои проектные работы в разделе с репозиториями или в списке ниже:
 
-HTML, CSS:
+HTML, CSS   
 https://github.com/Sibusky/how-to-learn
 
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript   
 https://github.com/Sibusky/russian-travel   
 https://github.com/Sibusky/mesto
 
-JavaScript, React
+JavaScript, React   
 https://github.com/Sibusky/mesto-react   
 https://github.com/Sibusky/react-mesto-auth
 
-JavaScript, Node.js
+JavaScript, Node.js   
 https://github.com/Sibusky/express-mesto-gha

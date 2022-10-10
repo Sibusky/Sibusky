@@ -17,7 +17,7 @@ JavaScript, React, Node.js
 https://github.com/Sibusky/mesto-react   
 https://github.com/Sibusky/react-mesto-auth
 
-JavaScript, Node.js   
+Backend-development using JavaScript, Node.js   
 https://github.com/Sibusky/express-mesto-gha
 _______
 
@@ -38,5 +38,5 @@ JavaScript, React, Node.js
 https://github.com/Sibusky/mesto-react   
 https://github.com/Sibusky/react-mesto-auth
 
-JavaScript, Node.js   
+Backend-разработка с JavaScript, Node.js   
 https://github.com/Sibusky/express-mesto-gha

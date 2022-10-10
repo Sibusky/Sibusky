@@ -13,7 +13,7 @@ HTML, CSS, JavaScript
 https://github.com/Sibusky/russian-travel   
 https://github.com/Sibusky/mesto
 
-JavaScript, React   
+JavaScript, React, Node.js   
 https://github.com/Sibusky/mesto-react   
 https://github.com/Sibusky/react-mesto-auth
 
@@ -34,7 +34,7 @@ HTML, CSS, JavaScript
 https://github.com/Sibusky/russian-travel   
 https://github.com/Sibusky/mesto
 
-JavaScript, React   
+JavaScript, React, Node.js   
 https://github.com/Sibusky/mesto-react   
 https://github.com/Sibusky/react-mesto-auth
 

@@ -19,6 +19,14 @@ https://github.com/Sibusky/react-mesto-auth
 
 Backend-development using JavaScript, Node.js   
 https://github.com/Sibusky/express-mesto-gha
+
+Pet-projects:
+
+1. Georgian alphabet trainer. HTML, CSS, JavaScript
+https://github.com/Sibusky/georgian-alphabet
+
+2. Electric company iternet page. HTML, CSS, Figma (project is unfinished, but you can check Figma project I've made by myself)
+https://github.com/Sibusky/ProElectro-site
 _______
 
 Привет, меня зовут Алексей Смирнов.
@@ -40,3 +48,11 @@ https://github.com/Sibusky/react-mesto-auth
 
 Backend-разработка с JavaScript, Node.js   
 https://github.com/Sibusky/express-mesto-gha
+
+Pet-проекты:
+
+1. Тренажёр грузинского алфавита. HTML, CSS, JavaScript
+https://github.com/Sibusky/georgian-alphabet
+
+2. Сайт электромонтажной компании. HTML, CSS, Figma (проект ещё не завершён, но можно ознакомиться с макетом, свёрстанным мной в редакторе Figma)
+https://github.com/Sibusky/ProElectro-site

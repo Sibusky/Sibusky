@@ -20,6 +20,9 @@ https://github.com/Sibusky/react-mesto-auth
 Backend-development using JavaScript, Node.js   
 https://github.com/Sibusky/express-mesto-gha
 
+Full Stack project. JavaScript, React, Node.js, Express, Nginx, Yandex.Cloud   
+https://github.com/Sibusky/react-mesto-api-full    
+
 Pet-projects:
 
 1. Georgian alphabet trainer. HTML, CSS, JavaScript
@@ -31,9 +34,9 @@ _______
 
 Привет, меня зовут Алексей Смирнов.
 
-Год назад я начал свой путь в программировании. Выбрал JavaScript в качестве первого языка из-за своего интереса к веб-приложениям. Захожу в интернет каждый день через свой ноутбук. Google docs и google sheets, мессенджеры, одностраничные приложения, социальные сети и так далее… Хотел узнать как они устроены. И, конечно, хотел создать что-то новое, что-то что поможет мне и другим людям решать проблемы или просто хорошо проводить время в сети. 
+Через веб-приложения хочу положительно влиять на умы людей. Пишу дипломный проект в курсе “Веб-разработчик”. Умею хорошо организовать себя, выстраиваю здоровые крепкие взаимоотношения в небольших рабочих группах. Много общаюсь с заказчиками, поэтому могу выходить из конфликтных ситуаций. В свободное время изучаю языки, танцую бачату, путешествую, играю в настолки, участвую в викторинах.
 
-Я почти завершил курс “Веб-разработчик” от Яндекс.Практикум. В рамках этого курса были изучены HTML, CSS, JavaScript, React, back-end разработка на Node.js. Мои работы можно найти в разделе с репозиториями или в списке ниже:
+В рамках учебного курса Я.Практикум курса изучил HTML, CSS, JavaScript, React, back-end разработка на Node.js. Работы можно найти в разделе с репозиториями или в списке ниже:
 
 HTML, CSS   
 https://github.com/Sibusky/how-to-learn
@@ -42,12 +45,15 @@ HTML, CSS, JavaScript
 https://github.com/Sibusky/russian-travel   
 https://github.com/Sibusky/mesto
 
-JavaScript, React, Node.js   
+JavaScript, React, Node.js, Express   
 https://github.com/Sibusky/mesto-react   
 https://github.com/Sibusky/react-mesto-auth
 
-Backend-разработка с JavaScript, Node.js   
+Backend-разработка с JavaScript, Node.js, Express   
 https://github.com/Sibusky/express-mesto-gha
+
+Full Stack проект. JavaScript, React, Node.js, Express, Nginx, Yandex.Cloud   
+https://github.com/Sibusky/react-mesto-api-full    
 
 Pet-проекты:
 

@@ -4,10 +4,11 @@ I’m **Aleksei Smirnov**.
 
 One year ago I started my way in programming. I chose JavaScript as my first language because of my interest in web applications. I use the Internet every day via my laptop. Google docs and sheets, messengers, single page applications, social networks, etc. I wanted to know how does it work. And of course I wanted to create something new, something that can help me and other people to solve problems or just spend a good time using the Internet.
 
-Social networks links:   
+Contacts:   
 VK: https://vk.com/sibusky   
 Instagram: https://www.instagram.com/electrician_smirnov/   
 Telegram: https://t.me/+79005527229   
+E-mail: 5325388@gmail.com   
 
 I’ve almost finished the course “Web-developer” from Yandex.Practicum. During this course I’ve learned HTML, CSS, JavaScript, React, back-end development using Node.js. You can find my project works in repositories section or on the list below:
 
@@ -41,10 +42,11 @@ _______
 
 Через веб-приложения хочу положительно влиять на умы людей. Пишу дипломный проект в курсе “Веб-разработчик”. Умею хорошо организовать себя, выстраиваю здоровые крепкие взаимоотношения в небольших рабочих группах. Много общаюсь с заказчиками, поэтому могу выходить из конфликтных ситуаций. В свободное время изучаю языки, танцую бачату, путешествую, играю в настолки, участвую в викторинах.
 
-Ссылки на соцсети:   
+Контакты:   
 VK: https://vk.com/sibusky   
 Instagram: https://www.instagram.com/electrician_smirnov/   
 Telegram: https://t.me/+79005527229   
+E-mail: 5325388@gmail.com   
 
 В рамках учебного курса Я.Практикум курса изучил HTML, CSS, JavaScript, React, back-end разработка на Node.js. Работы можно найти в разделе с репозиториями или в списке ниже:
 

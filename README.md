@@ -1,8 +1,8 @@
 Hi there!
 
-I’m Aleksei Smirnov. 
+I’m **Aleksei Smirnov**. 
 
-One year ago I started my way in programming. I chose JavaScript as my first language because of my interest in web applications. I use the Internet every day via my laptop. Google docs and sheets, messengers, single page applications, social networks, etc. I wanted to know how does it works. And of course I wanted to create something new, something that can help me and other people to solve problems or just spend a good time using the Internet.
+One year ago I started my way in programming. I chose JavaScript as my first language because of my interest in web applications. I use the Internet every day via my laptop. Google docs and sheets, messengers, single page applications, social networks, etc. I wanted to know how does it work. And of course I wanted to create something new, something that can help me and other people to solve problems or just spend a good time using the Internet.
 
 I’ve almost finished the course “Web-developer” from Yandex.Practicum. During this course I’ve learned HTML, CSS, JavaScript, React, back-end development using Node.js. You can find my project works in repositories section or on the list below:
 
@@ -32,7 +32,7 @@ https://github.com/Sibusky/georgian-alphabet
 https://github.com/Sibusky/ProElectro-site
 _______
 
-Привет, меня зовут Алексей Смирнов.
+Привет, меня зовут **Алексей Смирнов**.
 
 Через веб-приложения хочу положительно влиять на умы людей. Пишу дипломный проект в курсе “Веб-разработчик”. Умею хорошо организовать себя, выстраиваю здоровые крепкие взаимоотношения в небольших рабочих группах. Много общаюсь с заказчиками, поэтому могу выходить из конфликтных ситуаций. В свободное время изучаю языки, танцую бачату, путешествую, играю в настолки, участвую в викторинах.
 

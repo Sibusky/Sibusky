@@ -6,7 +6,7 @@
 <a href="https://vk.com/sibusky" target="_blank"><img src="https://simpleicons.org/icons/vk.svg" alt="vk logo" height="23"></a>
 <a href="https://www.instagram.com/electrician_smirnov" target="_blank"><img src="https://simpleicons.org/icons/instagram.svg" alt="instagram logo" height="23"></a>
 <a href="https://t.me/+79005527229" target="_blank"><img src="https://simpleicons.org/icons/telegram.svg" alt="telegram logo" height="23"></a>
-<a href="5325388@gmail.com" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg" alt="gmail logo" height="23"></a>
+<a href="mailto:5325388@gmail.com" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg" alt="gmail logo" height="23"></a>
 
 📈 Прошёл путь от электрика-одиночки до руководителя своей бригады   
 🎯 Готов доказать, что в 35 можно стать программистом с нуля   

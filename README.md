@@ -1,11 +1,18 @@
-<h1 align="center">Привет, Меня зовут Алексей</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi, my name is Aleksei</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
+</h1>
 
-Контакты: ☏ RU: +7-900-552-72-29 ☏ GEO: +995-599077481   
-<a href="https://vk.com/sibusky" target="_blank"><img src="https://simpleicons.org/icons/vk.svg" alt="vk logo" height="23"></a>
-<a href="https://www.instagram.com/electrician_smirnov" target="_blank"><img src="https://simpleicons.org/icons/instagram.svg" alt="instagram logo" height="23"></a>
-<a href="https://t.me/+79005527229" target="_blank"><img src="https://simpleicons.org/icons/telegram.svg" alt="telegram logo" height="23"></a>
-<a href="mailto:5325388@gmail.com" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg" alt="gmail logo" height="23"></a>
+### About me
+My passion is creating web applications that enhance people's lives. One of my most exciting projects involved developing an app to aid in memorizing the Georgian alphabet. My technological skillset comprises React, Vue, Astro, and Node.js. In my free time, I enjoy language studies, bachata dancing, traveling, playing board games, and participating in quizzes.
+
+### Contacts
+☏ RU: +7-900-552-72-29   
+☏ GEO: +995-599077481   
+   
+<a href="https://vk.com/sibusky" target="_blank" style="margin-right: 10px;"><img src="https://simpleicons.org/icons/vk.svg" alt="vk logo" height="23"></a> 
+<a href="https://www.instagram.com/sibusky" target="_blank"><img src="https://simpleicons.org/icons/instagram.svg" alt="instagram logo" height="23"></a> 
+<a href="https://t.me/sibusky" target="_blank"><img src="https://simpleicons.org/icons/telegram.svg" alt="telegram logo" height="23"></a> 
+<a href="mailto:5325388@gmail.com" target="_blank"><img src="https://simpleicons.org/icons/gmail.svg" alt="gmail logo" height="23"></a> 
 
 📈 Прошёл путь от электрика-одиночки до руководителя бригады   
 🎯 Готов доказать, что в 35 можно стать программистом с нуля   
@@ -15,7 +22,7 @@
 🤘 В свободное время изучаю языки, танцую бачату, путешествую, играю в настолки, участвую в викторинах   
 💼 Портфолио в закреплённых репозиториях чуть ниже 👇
 
-### Стек:
+### Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)

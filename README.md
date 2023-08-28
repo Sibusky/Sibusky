@@ -3,7 +3,7 @@
 </h1>
 
 ### About me
-My passion is creating web applications that enhance people's lives. One of my most exciting projects involved developing an app to aid in memorizing the [Georgian alphabet](https://sibusky.github.io/georgian-alphabet/). My technological skillset comprises React, Vue, Astro, and Node.js. In my free time, I enjoy language studies, bachata dancing, traveling, playing board games, and participating in quizzes.
+My passion is creating web applications that enhance people's lives. One of my most exciting projects involved developing an app to aid in memorizing the [Georgian alphabet](https://sibusky.github.io/georgian-alphabet/). My skillset comprises such techs as React, Vue, Astro, Node.js, Mongo and others. In my free time, I enjoy language studies, bachata dancing, traveling, playing board games, and participating in quizzes.
 
 ### Contacts
 ☏ RU: +7-900-552-72-29   
@@ -34,6 +34,12 @@ My passion is creating web applications that enhance people's lives. One of my m
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibusky)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/Sibusky/badges/small)](https://www.codewars.com/users/Sibusky)   
+#### Leetcode
+
+[![Sibusky's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Sibusky)](https://github.com/Sibusky/leetcode-stats)   
+
+#### Codewars
+
+[![codewars](https://www.codewars.com/users/Sibusky/badges/small)](https://www.codewars.com/users/Sibusky)    
 
 ![](https://komarev.com/ghpvc/?username=Sibusky)

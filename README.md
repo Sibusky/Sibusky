@@ -32,13 +32,15 @@ My passion is creating web applications that enhance people's lives. One of my m
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
+##### Most used languages
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibusky)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Leetcode
+##### Leetcode
 
 [![Sibusky's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Sibusky)](https://github.com/Sibusky/leetcode-stats)   
 
-#### Codewars
+##### Codewars
 
 [![codewars](https://www.codewars.com/users/Sibusky/badges/small)](https://www.codewars.com/users/Sibusky)    
 

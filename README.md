@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-### About me
+### About
 My passion is creating web applications that enhance people's lives. One of my most exciting projects involved developing an app to aid in memorizing the [Georgian alphabet](https://sibusky.github.io/georgian-alphabet/). My skillset comprises such techs as React, Vue, Astro, Node.js, Mongo and others. In my free time, I enjoy language studies, bachata dancing, traveling, playing board games, and participating in quizzes.
 
 ### Contacts

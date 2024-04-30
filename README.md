@@ -3,7 +3,7 @@
 </h1>
 
 ### About
-My passion is creating web applications that enhance people's lives. My skillset comprises such techs as TypeScript, Next.js, React, Astro, Node.js, Mongo and others. In my free time, I enjoy language studies, traveling, playing board games, and participating in quizzes.  
+My passion is creating web applications that enhance people's lives. My skillset comprises such techs as TypeScript, Next.js, React, Astro, Node.js, MongoDB, Tailwind and others. In my free time, I enjoy language studies, traveling, playing board games, and participating in quizzes.  
 
 ### Contacts
 ☏ RU: +7-900-552-72-29   

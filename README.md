@@ -2,7 +2,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
 </h1>
 
-### About
 My passion is creating web applications that enhance people's lives. My skillset comprises such techs as TypeScript, Next.js, React, Astro, Node.js, MongoDB, Tailwind and others. In my free time, I enjoy running, traveling and playing board games.  
 
 ### Contacts
@@ -35,10 +34,6 @@ My passion is creating web applications that enhance people's lives. My skillset
 ##### Most used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibusky)](https://github.com/anuraghazra/github-readme-stats)
-
-##### Leetcode
-
-[![Sibusky's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Sibusky)](https://github.com/Sibusky/leetcode-stats)   
 
 ##### Codewars
 

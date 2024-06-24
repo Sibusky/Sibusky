@@ -5,8 +5,8 @@
 My passion is creating web applications that enhance people's lives. My skillset comprises such techs as TypeScript, Next.js, React, Astro, Node.js, MongoDB, Tailwind and others. In my free time, I enjoy running, traveling and playing board games.  
 
 ### Contacts
-| <a href="https://www.instagram.com/sibusky" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram logo" height="23"></a> |
-<a href="https://t.me/sibusky" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram logo" height="23"></a> | 
+| <a href="https://t.me/sibusky" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram logo" height="23"></a> | 
+<a href="https://www.instagram.com/sibusky" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="instagram logo" height="23"></a> |
 <a href="mailto:5325388@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="gmail logo" height="23"></a> |   
 
 ----------

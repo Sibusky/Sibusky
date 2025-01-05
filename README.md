@@ -35,6 +35,10 @@ My passion is creating web applications that enhance people's lives. My skillset
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sibusky)](https://github.com/anuraghazra/github-readme-stats)
 
+##### Leetcode
+
+[![Sibusky's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Sibusky)](https://github.com/Sibusky/leetcode-stats)   
+
 ##### Codewars
 
 [![codewars](https://www.codewars.com/users/Sibusky/badges/small)](https://www.codewars.com/users/Sibusky)    
